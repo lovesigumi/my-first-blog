@@ -1,1 +1,0 @@
-/home/pi/.local/bin/django-admin.py
